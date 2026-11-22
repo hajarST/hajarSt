@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+Hajar+Sabt;Computer+Science+Engineer;CS+Instructor+%26+Software+Dev" alt="Typing SVG" />
 </div>
 
-<h3 align="center">👩‍💻 Passionate Instructor & Tech Enthusiast based in Marrakech 🇲🇦</h3>
+<h3 align="center">👩‍💻 Software Engineer & IT Professor | Turning Complex Code into Clear Knowledge</h3>
 
 <p align="center">
  
