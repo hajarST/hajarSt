@@ -5,9 +5,7 @@
 <h3 align="center">👩‍💻 Passionate Instructor & Tech Enthusiast based in Marrakech 🇲🇦</h3>
 
 <p align="center">
-  <a href="https://github.com/hajarST">
-    <img src="https://komarev.com/ghprofile/?username=hajarST&color=blueviolet&style=for-the-badge" alt="hajarST" />
-  </a>
+ 
   <a href="https://www.linkedin.com/in/hajar-sabt-483193131/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
