@@ -7,7 +7,7 @@
 
 ### 👩‍💻 About Me
 
-I am **Hajar Sabt**, a Computer Science Engineer (EMSI) and passionate Instructor based in **Marrakech, Morocco**. I love designing high-performance software architectures, building robust applications, and passing on knowledge through a hands-on approach ("Learning by Doing").
+I am **Hajar Sabt**, a Computer Science Engineer (EMSI) and passionate Instructor based in **Marrakech, Maroc**. I love designing high-performance software architectures, building robust applications, and passing on knowledge through a hands-on approach ("Learning by Doing").
 
 * 🎓 **Education:** State Engineer / Computer Science Engineering Degree (EMSI)
 * 👩‍🏫 **Current Role:** Computer Science & Systems Instructor / Project Management
@@ -19,8 +19,12 @@ I am **Hajar Sabt**, a Computer Science Engineer (EMSI) and passionate Instructo
 
 ### 🛠️ Tech Stack
 
+#### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Java (Mobile)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 #### ☕ Backend, Frameworks & Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -30,8 +34,7 @@ I am **Hajar Sabt**, a Computer Science Engineer (EMSI) and passionate Instructo
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-#### 📱 Mobile & Frontend
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+#### 🌐 Frontend & Design
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
